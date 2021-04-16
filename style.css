@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 8px 8px 10px rgb(70, 70, 70);
+
+}
+body{
+    background-image: linear-gradient(red, yellow);
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+h2{
+    text-shadow: 6px 8px 10px rgb(236, 194, 194);
+}
+hr{
+    color:blue;
+    height: 3px;
+    fill:blue;
+}
